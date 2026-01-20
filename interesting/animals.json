@@ -1,0 +1,54 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "species": "Panthera leo",
+      "type": "Mammal",
+      "habitat": "Savanna",
+      "diet": "Carnivore",
+      "lifespan_years": 14,
+      "is_endangered": false
+    },
+    {
+      "id": 2,
+      "name": "Elephant",
+      "species": "Loxodonta africana",
+      "type": "Mammal",
+      "habitat": "Grasslands",
+      "diet": "Herbivore",
+      "lifespan_years": 60,
+      "is_endangered": true
+    },
+    {
+      "id": 3,
+      "name": "Penguin",
+      "species": "Aptenodytes forsteri",
+      "type": "Bird",
+      "habitat": "Antarctica",
+      "diet": "Carnivore",
+      "lifespan_years": 20,
+      "is_endangered": false
+    },
+    {
+      "id": 4,
+      "name": "Cobra",
+      "species": "Naja naja",
+      "type": "Reptile",
+      "habitat": "Forests",
+      "diet": "Carnivore",
+      "lifespan_years": 15,
+      "is_endangered": false
+    },
+    {
+      "id": 5,
+      "name": "Dolphin",
+      "species": "Delphinus delphis",
+      "type": "Mammal",
+      "habitat": "Ocean",
+      "diet": "Carnivore",
+      "lifespan_years": 40,
+      "is_endangered": false
+    }
+  ]
+}
