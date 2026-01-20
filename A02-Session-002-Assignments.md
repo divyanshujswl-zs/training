@@ -22,6 +22,7 @@
    2. **Step 02**  
       1. Create a branch by name **development** and checkout  
       2. Push this branch to Github
+      pushed changes to development
 
    3. **Step 03**  
       1. Create a branch by name **my\_first\_branch** and checkout  
