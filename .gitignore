@@ -1,0 +1,17 @@
+
+dist/
+
+*.exe
+*.dll
+*.out
+
+# OS files
+.DS_Store
+.vscode/
+.idea
+
+# Environment files
+.env
+*.env
+*lock.json
+
